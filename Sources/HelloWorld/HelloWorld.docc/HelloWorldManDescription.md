@@ -1,12 +1,9 @@
 # HelloWorldMan
 
 - HelloWorldManはHelloWorldの男である
-
-## Overview
-
 - HelloWorldManはHelloWorldと言うことができる
 
-### Section header
+### HelloWorldManとは 
 
 - Helloとは
 - Worldとは
